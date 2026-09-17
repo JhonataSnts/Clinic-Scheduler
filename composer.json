@@ -1,0 +1,17 @@
+{
+    "name": "jonat/clinic-scheduler",
+    "description": "Sistema de agendamento multi-tenant",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonatas Santos",
+            "email": "jonatasskt18@gmail.com"
+        }
+    ],
+    "require": {}
+}
